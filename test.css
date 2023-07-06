@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.test {
+ color: blue;
+ cursor: url("https://www.bing.com/images/search?view=detailV2&ccid=T2LTkkG7&id=C92C380D9947200FDA1BABB77B9C675B74FDF4C2&thid=OIP.T2LTkkG72enyA5mEB9jNPgHaD2&mediaurl=https%3a%2f%2fbroly.la-studioweb.com%2fwp-content%2fuploads%2f2016%2f08%2fphotography-slider-04.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4f62d39241bbd9e9f203998407d8cd3e%3frik%3dwvT9dFtnnHu3qw%26pid%3dImgRaw%26r%3d0&exph=1000&expw=1920&q=photo&simid=607991739875533143&FORM=IRPRST&ck=4C54E00DA6637668F4EF84CD305F28D7&selectedIndex=0&idpp=overlayview&ajaxhist=0&ajaxserp=0"),auto;
+
+}
